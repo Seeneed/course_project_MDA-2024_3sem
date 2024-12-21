@@ -1,0 +1,21 @@
+﻿Сборка начата 16.12.2024 17:17:57.
+Уровень детализации журнала: Normal.     1>Проект "D:\Денис\3 сем\КПО\MDA-2024\StaticLibrary\StaticLibrary.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Обращение к "Debug\StaticLibrary.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Lib:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX86\x86\Lib.exe /OUT:"D:\Денис\3 сем\КПО\MDA-2024\Debug\StaticLibrary.lib" /NOLOGO /MACHINE:X86 Debug\StaticLibrary.obj
+         StaticLibrary.vcxproj -> D:\Денис\3 сем\КПО\MDA-2024\Debug\StaticLibrary.lib
+       FinalizeBuildStatus:
+         Файл "Debug\StaticLibrary.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\StaticLibrary.tlog\StaticLibrary.lastbuildstate".
+     1>Сборка проекта "D:\Денис\3 сем\КПО\MDA-2024\StaticLibrary\StaticLibrary.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.18
